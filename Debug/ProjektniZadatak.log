@@ -1,0 +1,15 @@
+﻿  functions.c
+C:\Users\pilem\source\repos\ProjektniZadatak\ProjektniZadatak\functions.c(219,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pilem\source\repos\ProjektniZadatak\ProjektniZadatak\functions.c(272,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pilem\source\repos\ProjektniZadatak\ProjektniZadatak\functions.c(288,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pilem\source\repos\ProjektniZadatak\ProjektniZadatak\functions.c(304,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pilem\source\repos\ProjektniZadatak\ProjektniZadatak\functions.c(363,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pilem\source\repos\ProjektniZadatak\ProjektniZadatak\functions.c(367,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pilem\source\repos\ProjektniZadatak\ProjektniZadatak\functions.c(401,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pilem\source\repos\ProjektniZadatak\ProjektniZadatak\functions.c(440,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pilem\source\repos\ProjektniZadatak\ProjektniZadatak\functions.c(444,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pilem\source\repos\ProjektniZadatak\ProjektniZadatak\functions.c(478,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pilem\source\repos\ProjektniZadatak\ProjektniZadatak\functions.c(541,23): warning C4018: '<': signed/unsigned mismatch
+  main.c
+  Generating Code...
+  ProjektniZadatak.vcxproj -> C:\Users\pilem\source\repos\ProjektniZadatak\Debug\ProjektniZadatak.exe
